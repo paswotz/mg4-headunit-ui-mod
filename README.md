@@ -6,8 +6,12 @@ Force the newer **MG HS EV (AS33) launcher UI** onto the **MG4 Standard/SE (EH32
 
 SAIC/MG uses a single launcher APK (`com.saicmotor.launcher`) across multiple platforms. At runtime, the app reads a system property (`ro.product.carmode`) to determine which UI variant to load. On the MG4 SE this returns model code `0x45`, which selects the EH32-specific layout. The AS33 (MG HS EV) uses model code `0x881` and gets a visually modern UI with different card layouts and additional features. CarModel location: `smali/saicmotor/carapi/constant/CarModel`.
 
-## Installation methods
+## Installation method
 
+1. Download the APK and copy it to a FAT32 formatted USB drive. 
+2. Install the APK via the Android system menu using the Files app.
+
+For deinstall, simply open Android settings, go to installed apps and select launcher. Tab on the three dots > deinstall.
 
 ## Patches applied to `CarModel`
 
