@@ -54,7 +54,7 @@ For deinstall, simply open Android settings, go to installed apps and select lau
 
 ✍️ Patch more APK's to AS33 for full infotainemnt menu
 
-✍️ Add different installation method via usb upgrade in the engineering menu
+✍️ Add different installation method via usb upgrade from the engineering menu
 
 ✍️ Find MG4 (Urban), MGS5, MGS6... FCIM for the latest car model infotainment UI
 
@@ -62,7 +62,7 @@ For deinstall, simply open Android settings, go to installed apps and select lau
 
 | Field | Value |
 |---|---|
-| Vehicle | MG4 Standard MY23 |
+| Vehicle | MG4 SE MY23 |
 | Platform | EH32 |
 | Model code | `0x45` (original) → `0x881` (patched) |
 | Region | EU |
