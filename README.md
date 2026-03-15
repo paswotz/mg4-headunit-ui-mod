@@ -11,10 +11,10 @@
 2. Install the APK via the Android system menu using the Files app.
 
 **Automatic**
-Coming soon
+- Coming soon
 
 **Deinstall**
-For deinstall, simply open Android settings, go to installed apps and select launcher. Tab on the three dots > deinstall.
+- For deinstall, simply open Android settings, go to installed apps and select launcher. Tab on the three dots > deinstall.
 
 ## What works after patching
 
