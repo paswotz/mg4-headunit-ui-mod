@@ -4,11 +4,16 @@
 
 **A project to port newer MG vehicle UI features to the legacy MG4 infotainment system.**
 
-## Installation method
+## Installation methods
 
+**Manual**
 1. Download the APK and copy it to a FAT32 formatted USB drive. 
 2. Install the APK via the Android system menu using the Files app.
 
+**Automatic**
+Coming soon
+
+**Deinstall**
 For deinstall, simply open Android settings, go to installed apps and select launcher. Tab on the three dots > deinstall.
 
 ## What works after patching
