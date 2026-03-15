@@ -2,7 +2,7 @@
 
 ![IMG_7242](https://github.com/user-attachments/assets/ee0e91c5-dc21-40ee-a962-243529e91b5c)
 
-Force the newer **MG HS EV (AS33) launcher UI** onto the **MG4 Standard/SE (EH32)** head unit by patching `CarModel` in the launcher APK.
+**A project to port newer MG vehicle UI features to the legacy MG4 infotainment system.**
 
 ## Installation method
 
