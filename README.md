@@ -2,17 +2,20 @@
 
 ![IMG_7242](https://github.com/user-attachments/assets/ee0e91c5-dc21-40ee-a962-243529e91b5c)
 
-**A project to port newer MG vehicle UI features to the legacy MG4 infotainment system.**
+**Upgrade your infotainment system with the latest launcher UI experience from SAIC/MG.**
 > [!WARNING]
 > Currently, this mod only works with MG4 SE (Standard) models.
 
 ## Installation methods
+> [!NOTE]
+> Choose **Recommended** if you want to install the full base system package.\
+> Choose **Manual** if you want to select the modified apps yourself.
 
 **Manual** 
 
 >You already have access to the internal Android system (AAOS) to sideload apk's.
-1. Download the latest APK from [releases](https://github.com/paswotz/mg4-headunit-ui-mod/releases) and copy it to a FAT32 formatted USB drive. 
-2. Install the APK via the Android system menu using the "Files" app.
+1. Download the latest APK's from [releases](https://github.com/paswotz/mg4-headunit-ui-mod/releases) and copy it to a FAT32 formatted USB drive. 
+2. Install the APK's via the Android system menu using the "Files" app.
 
 **Recommend**
 > [!IMPORTANT]
@@ -23,7 +26,7 @@
 4. In the car, connect the USB drive, open the phone dialer and enter `#*#4479*#*`.
 5. Select "USB Update". First install "AVN-VIP". After reboot repeat the steps and select "AVN-SOC".
 
-**Deinstall**
+**Deinstallation**
 1. Open the android settings and go to the installed apps.
 2. Search and select the "launcher" app.
 3. Tab on the three dots and select "deinstall".
